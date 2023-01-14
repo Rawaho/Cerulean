@@ -11,4 +11,4 @@ A sandbox server emulator for the unreleased social MMO Everland that supports t
  * Everland Stress Test client.
 
 ### Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
