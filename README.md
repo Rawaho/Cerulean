@@ -9,3 +9,6 @@ A sandbox server emulator for the unreleased social MMO Everland that supports t
  * Visual Studio 2022 (.NET Core 7.0 and C# 11 support required).
  * MySQL Server (or equivalent, eg: MariaDB).
  * Everland Stress Test client.
+
+### Screenshot
+![Screenshot](screenshot.png)
