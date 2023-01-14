@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerulean.API", "Cerulean.API\Cerulean.API.csproj", "{D2208C3C-0EBA-49A7-B870-2DC30758DF1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerulean.Database", "Cerulean.Database\Cerulean.Database.csproj", "{8E12B38C-AE70-40F7-97E6-B783FDDAF9FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerulean.Server", "Cerulean.Server\Cerulean.Server.csproj", "{CC7307CB-D244-433F-9D28-87EB74FF074F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerulean.Game", "Cerulean.Game\Cerulean.Game.csproj", "{C40A626C-49FD-4720-A9FB-07363212C831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerulean.Network.Game", "Cerulean.Network.Game\Cerulean.Network.Game.csproj", "{3FB22598-971E-4394-B677-58E060A0D915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerulean.Network.API", "Cerulean.Network.API\Cerulean.Network.API.csproj", "{A73C9B5E-57D3-4018-9A04-AA717EBB8558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerulean.Game.Abstract", "Cerulean.Game.Abstract\Cerulean.Game.Abstract.csproj", "{77C85A25-6149-4A4C-B4EF-917D428AAD77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2208C3C-0EBA-49A7-B870-2DC30758DF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2208C3C-0EBA-49A7-B870-2DC30758DF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2208C3C-0EBA-49A7-B870-2DC30758DF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2208C3C-0EBA-49A7-B870-2DC30758DF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E12B38C-AE70-40F7-97E6-B783FDDAF9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E12B38C-AE70-40F7-97E6-B783FDDAF9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E12B38C-AE70-40F7-97E6-B783FDDAF9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E12B38C-AE70-40F7-97E6-B783FDDAF9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7307CB-D244-433F-9D28-87EB74FF074F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7307CB-D244-433F-9D28-87EB74FF074F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7307CB-D244-433F-9D28-87EB74FF074F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7307CB-D244-433F-9D28-87EB74FF074F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40A626C-49FD-4720-A9FB-07363212C831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40A626C-49FD-4720-A9FB-07363212C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40A626C-49FD-4720-A9FB-07363212C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40A626C-49FD-4720-A9FB-07363212C831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB22598-971E-4394-B677-58E060A0D915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB22598-971E-4394-B677-58E060A0D915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB22598-971E-4394-B677-58E060A0D915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB22598-971E-4394-B677-58E060A0D915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73C9B5E-57D3-4018-9A04-AA717EBB8558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73C9B5E-57D3-4018-9A04-AA717EBB8558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73C9B5E-57D3-4018-9A04-AA717EBB8558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73C9B5E-57D3-4018-9A04-AA717EBB8558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C85A25-6149-4A4C-B4EF-917D428AAD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C85A25-6149-4A4C-B4EF-917D428AAD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C85A25-6149-4A4C-B4EF-917D428AAD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C85A25-6149-4A4C-B4EF-917D428AAD77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77598F25-A276-47BB-BEF8-8C81FB1AC4D4}
+	EndGlobalSection
+EndGlobal
